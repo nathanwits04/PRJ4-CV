@@ -50,3 +50,11 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+/* Custom highlight class to meet style adjustment 2 */
+.custom-highlight {
+    color: #ff4081; /* striking text color */
+    background-color: #fff2f6; /* soft background */
+    padding: 0.2em 0.5em;
+    border-radius: 5px;
+    font-style: italic;
+}
